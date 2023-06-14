@@ -5,7 +5,7 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 <!-- -   🔭 I’m currently working on a Java web app 👨‍💻 -->
 
 -   👨‍🎓 I'm currently working on my studies
--   🌱 I’m currently learning more about Java and Go
+-   🌱 I’m currently learning more about Java and Cloud Computing
 -   🤝 I’m looking to collaborate on various open source projects
 -   ⚡️ I would like to work on technologies that improve our lives and create a sustainable and better future
 -   📫 Contact me [here](https://www.linkedin.com/in/m-novianto-anggoro-3915b9245/)
@@ -15,8 +15,6 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 <!-- ### Education & Certifications -->
 
 ### Certifications
-
-<!-- -   **BSc Computer Science and Management** - University of Regensburg (2021 - 2024) -->
 
 -   **[AWS Academy Cloud Architecting](https://drive.google.com/file/d/1lKeLStnGSkBGXM6JBetAzrJ_U4QWTstz/view?usp=sharing)** - AWS Academy (2022)
 -   **[Javascript Fundamental](https://drive.google.com/file/d/1KjSvwSr47rCfgOctBWPP2Isr0q-l_9V8/view?usp=sharing)** - Dicoding (2022)
@@ -40,8 +38,6 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
-
-<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
