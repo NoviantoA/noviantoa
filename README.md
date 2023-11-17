@@ -30,7 +30,7 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 
 <p float="left">
   <img alt="Dan's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=noviantoa&show_icons=true&hide_border=true&theme=rose_pine" height=165px />
-  <img alt="Novianto GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=novianto&hide_border=true&layout=compact&theme=rose_pine" />
+   <img alt="Novianto GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=novianto&hide_border=true&layout=compact&theme=radical" />
 </p>
 
 ---
